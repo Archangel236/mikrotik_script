@@ -18,11 +18,19 @@
 :global connecttimeout "60";
 
 Минимальный уровень сигнала
+
 >= -70 dBm	Excellent	Strong signal with maximum data speeds
+
 -70 dBm to -85 dBm	Good	Strong signal with good data speeds
+
 -86 dBm to -100 dBm	Fair	Fair but useful, fast and reliable data speeds may be attained, but marginal data with drop-outs is possible
+
 < -100 dBm	Poor	Performance will drop drastically
+
 -110 dBm	No signal	Disconnection
+
+
+
 :global minsignallevel "-110";
 
 Переменная определит текущий уровень сигнала далее в скрипте
