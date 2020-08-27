@@ -1,5 +1,4 @@
 # mikrotik_script
-Mikrotik Script
 Название SIM в первом слоту
 :global upname "Kyivstar";
 
