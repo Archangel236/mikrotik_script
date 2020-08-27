@@ -19,7 +19,7 @@
 
 Минимальный уровень сигнала
 
->>= -70 dBm	Excellent	Strong signal with maximum data speeds
+>\>= -70 dBm	Excellent	Strong signal with maximum data speeds
 
 >-70 dBm to -85 dBm	Good	Strong signal with good data speeds
 
